@@ -1,0 +1,6 @@
+@BigTyreHardwareMonitorApi_HostAddress = http://localhost:5288
+
+GET {{BigTyreHardwareMonitorApi_HostAddress}}/hardware-data/
+Accept: application/json
+
+###

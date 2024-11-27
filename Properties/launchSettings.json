@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BigTyreHardwareMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "--ApiUrl http://localhost:5288"
+    }
+  }
+}
